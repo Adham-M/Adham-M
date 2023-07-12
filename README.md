@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'mAdham Mahmoud</h1>
+<h1 align="center">Hi 👋, I'm Adham Mahmoud</h1>
 
 ## 😄 About me
 - 🌱 I'm currently building custom ML projects to meet different business needs.
 - 🤔 Feel free to contact me, I'll be glad to talk with you!
-- 💬 Ask me about what can I add to you business to be more intelligent.
+- 💬 Ask me about what can I add to your business to be more intelligent.
 
 <h2>📌My GitHub repositories</h2>
 <div>
