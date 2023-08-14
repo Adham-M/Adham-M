@@ -11,7 +11,7 @@
     <a href="https://github.com/Adham-M/Deep-Learning_ND">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adham-M&repo=Deep-Learning_ND" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Adham-M/ Face-Recognition-playground">
+    <a href="https://github.com/Adham-M/Face-Recognition-playground">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adham-M&repo=Face-Recognition-playground" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Adham-M/Bubble-Sheet-Corrector">
