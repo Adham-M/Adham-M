@@ -14,10 +14,10 @@
     <a href="https://github.com/Adham-M/Face-Recognition-playground">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adham-M&repo=Face-Recognition-playground" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Adham-M/Bubble-Sheet-Corrector">
+    <a href="https://github.com/cufechs/Bubble-Sheet-Corrector">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cufechs&repo=Bubble-Sheet-Corrector" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Adham-M/ Self-play-snake-game">
+    <a href="https://github.com/Adham-M/Self-play-snake-game">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adham-M&repo=Self-play-snake-game" alt="GitHub Stats" />
     </a>
   </p>
