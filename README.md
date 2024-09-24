@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adham Mahmoud</h1>
 
+<!---
 ## 😄 About me
 - 🌱 I'm currently building custom ML projects to meet different business needs.
 - 🤔 Feel free to contact me, I'll be glad to talk with you!
 - 💬 Ask me about what can I add to your business to be more intelligent.
+-->
 
 <h2>📌My GitHub repositories</h2>
 <div>
@@ -31,5 +33,7 @@
 <h2>📫 How to reach me</h2>
 
 <a href="mailto:adham.mah99@gmail.com">![adham.mah99@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/adham-m/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/adham-m/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>\
+<!---
 <a href="https://www.upwork.com/freelancers/~0127debe063c751835">![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)</a>
+-->
